@@ -20,7 +20,7 @@ A 2D computational domain was constructed, and the geometry was processed using 
 * Fluid: Air
 
 ### Meshing Strategy
-A mesh was generated using 0.1m for decent precision. Adaptive edge sizing was applied to the airfoil boundaries to ensure the solver accurately captured the surface curvature. 
+A mesh was generated using 0.1m element size for a precision and velocity of generation. Adaptive edge sizing was applied to the airfoil boundaries to ensure the solver accurately captured the surface curvature. 
 
 ![meshwing](https://github.com/user-attachments/assets/9473e699-781c-4b63-96b6-f13b85a6f627)
 
