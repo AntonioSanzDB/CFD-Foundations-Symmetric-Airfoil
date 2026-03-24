@@ -42,7 +42,7 @@ Because the airfoil is perfectly symmetric, it relies entirely on its 15° Angle
 While positive lift was achieved, the $C_l$ is relatively low for such a steep angle. This might be due to an aerodynamic stall.
 
 ### 2. Static Pressure Contour
-The pressure contour clearly visualizes the mechanics of lift. A high-pressure zone (red/orange) is visible on the lower surface as it forces air downward, while a low-pressure zone (blue/green) forms on the upper surface. Since air tends to go from low-pressure to high-pressure this generates lift.
+The pressure contour clearly visualizes the mechanics of lift. A high-pressure zone (red/orange) is visible on the lower surface as it forces air downward, while a low-pressure zone (blue/green) forms on the upper surface. Since air tends to go from high-pressure to low-pressure this generates lift.
 
 ![pressurewing](https://github.com/user-attachments/assets/540055db-150a-4faa-beb2-7d2ac871f89c)
 
